@@ -1,0 +1,9 @@
+# Ignore all
+*
+# Unignore all files with extension names that include "."
+!*.*
+
+
+.vscode/
+
+.DS_Store
